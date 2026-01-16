@@ -15,10 +15,8 @@ The project focuses on data reliability, structure, and performance, not machine
 
 ## Project Architecture
 
-```t
+```
 Retail_Data_Engineering/
-│
-├── data/                    # Raw dataset
 │
 ├── notebooks/               # Exploration, cleaning, and analysis notebooks
 │   └── retail_pipeline.ipynb
@@ -29,7 +27,6 @@ Retail_Data_Engineering/
 │   ├── run_schema.py
 │   └── check_tables.py
 │
-├── retail.db                # SQLite database
 ├── requirements.txt
 └── README.md
 ```
@@ -100,3 +97,4 @@ pip install -r requirements.txt
 
 ## Outcome
 The final database supports fast analytical queries on cleaned, well-structured retail data and demonstrates practical data engineering fundamentals applicable to real production pipelines.
+
