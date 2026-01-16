@@ -1,4 +1,4 @@
-# End-to-End REtail Data Engineering Pipeline
+# End-to-End Retail Data Engineering Pipeline
 
 ## Overview
 
@@ -102,5 +102,6 @@ pip install -r requirements.txt
 
 ## Outcome
 The final database supports fast analytical queries on cleaned, well-structured retail data and demonstrates practical data engineering fundamentals applicable to real production pipelines.
+
 
 
