@@ -97,11 +97,12 @@ pip install -r requirements.txt
 
  2. Run notebook:
 
- - retail_ppipeline.ipynb
+ - retail_pipeline.ipynb
 
 
 ## Outcome
 The final database supports fast analytical queries on cleaned, well-structured retail data and demonstrates practical data engineering fundamentals applicable to real production pipelines.
+
 
 
 
